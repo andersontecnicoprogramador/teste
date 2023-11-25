@@ -10,6 +10,6 @@
   ### OBS
   - git checkout -b  <nomeDaBranch> Criar uma nova branch
   - git checkout <nomeDaBranch>:Alterna para branch especifica
-  - 
+    
   
   
